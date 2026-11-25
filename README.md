@@ -13,16 +13,18 @@ I'm a Software Engineer from Mumbai, India, with **5+ years of experience** buil
   </a>
 </p>
 
-<img align="right" height="200" src="https://picsum.photos/id/8/5000/3333" />
+<img align="right" height="150" width="150" src="https://github.com/Tejas1252.png" alt="Tejas Shinde" />
 
 ## 👨‍💻 About Me
 
 - 💻 Creating bugs and fixing them since 2021.
-- 🚀 Experienced in building scalable frontend applications using React and TypeScript.
+- 🚀 Building scalable frontend applications with React and TypeScript.
 - 🤖 Exploring AI-powered development and Spec-Driven Development.
-- 📚 Currently expanding my knowledge of full-stack development.
-- 🎯 Goal: Build impactful products and continuously grow as an engineer.
+- ⚡ Interested in frontend performance, accessibility, and clean architecture.
+- 📚 Continuously expanding my full-stack development skills.
 - 🎮 Gamer when I'm not coding!
+
+<br clear="right" />
 
 ---
 
@@ -92,6 +94,16 @@ I'm a Software Engineer from Mumbai, India, with **5+ years of experience** buil
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
 </div>
 
+## 🧪 Testing & Quality
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" height="40" alt="Vitest" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="40" alt="Playwright" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="Jenkins" />
+</div>
+
 ## 🌐 Browser Compatibility
 
 <div align="left">
@@ -102,24 +114,52 @@ I'm a Software Engineer from Mumbai, India, with **5+ years of experience** buil
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" height="40" alt="Safari" />
 </div>
 
-## 🤝 Connect With Me
+---
 
-<div align="left">
-  <a href="https://tejas1252.github.io/tejas-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white" height="35" alt="Portfolio" />
+## 🚀 Featured Projects
+
+### 📚 Study Buddy AI
+
+An AI-powered learning assistant that helps users interact with and learn from their study materials.
+
+- Built with React and Express.
+- Integrated Gemini API with a local Ollama fallback.
+- PDF parsing and token-based content chunking.
+- Supports 9 different learning modes.
+
+<p>
+  <a href="https://poetic-praline-b09511.netlify.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit%20Project-2ea44f?style=for-the-badge" alt="Live Demo" />
   </a>
-  <a href="https://www.linkedin.com/in/tejas-shinde-284894189">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
+  <a href="https://github.com/Tejas1252/study-buddy">
+    <img src="https://img.shields.io/badge/GitHub-Source%20Code-181717?style=for-the-badge&logo=github" alt="Source Code" />
   </a>
-</div>
+</p>
+
+### 🤖 AI Gadget Generator
+
+A hackathon proof of concept exploring AI-powered gadget generation using Claude.
+
+- Focused on AI-assisted product implementation.
+- Explored prompt-driven development workflows.
+
+---
+
+## 💡 What I'm Interested In
+
+- ⚡ Building high-performance frontend applications.
+- 🧠 Exploring AI-assisted software engineering.
+- 🏗️ Improving frontend architecture and developer experience.
+- ♿ Making web applications more accessible.
+- 🔬 Experimenting with new technologies and engineering approaches.
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tejas1252&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tejas1252&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tejas1252&show_icons=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tejas1252&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
 </div>
 
 ---
@@ -127,9 +167,15 @@ I'm a Software Engineer from Mumbai, India, with **5+ years of experience** buil
 ## 🐍 My Contributions
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tejas1252/Tejas1252/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Tejas1252/Tejas1252/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 </div>
 
 ---
 
-### 💡 "First, solve the problem. Then, write the code."</div>
+<div align="center">
+
+### 💡 "First, solve the problem. Then, write the code."
+
+⭐ Thanks for visiting my profile!
+
+</div>
