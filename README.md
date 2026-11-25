@@ -13,7 +13,7 @@ I'm a Software Engineer from Mumbai, India, with **5+ years of experience** buil
   </a>
 </p>
 
-<img align="right" height="150" width="150" src="https://github.com/Tejas1252.png" alt="Tejas Shinde" />
+<img align="right" height="200" src="https://picsum.photos/id/8/5000/3333" />
 
 ## 👨‍💻 About Me
 
